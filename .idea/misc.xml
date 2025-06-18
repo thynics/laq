@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="/usr/bin/python3.10 (17)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="/usr/bin/python3.10 (17)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="llama-env" project-jdk-type="Python SDK" />
 </project>
