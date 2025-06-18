@@ -1,0 +1,11 @@
+# ninja log v5
+0	35714	1749986819406716399	/home/chenglong/github.com/laq/csrc/build/temp.linux-x86_64-cpython-311/quant.o	dd867de559f3b0f1
+13	37599	1749997304137848078	/home/chenglong/github.com/laq/csrc/build/temp.linux-x86_64-cpython-311/quant.o	dd867de559f3b0f1
+14	38326	1749998386017986389	/home/chenglong/github.com/laq/csrc/build/temp.linux-x86_64-cpython-311/quant.o	dd867de559f3b0f1
+12	37806	1749998492367966607	/home/chenglong/github.com/laq/csrc/build/temp.linux-x86_64-cpython-311/quant.o	dd867de559f3b0f1
+5	43889	1750003641180746418	/home/chenglong/github.com/laq/src/laq/build/temp.linux-x86_64-cpython-311/quant.o	11f911bab6558369
+15	38444	1750004997987814549	/home/chenglong/github.com/laq/src/laq/build/temp.linux-x86_64-cpython-311/quant.o	11f911bab6558369
+14	38690	1750233827892090542	/home/chenglong/github.com/laq/src/laq/build/temp.linux-x86_64-cpython-311/quant.o	11f911bab6558369
+13	38493	1750234009364463256	/home/chenglong/github.com/laq/src/laq/build/temp.linux-x86_64-cpython-311/quant.o	11f911bab6558369
+14	40123	1750234150810929046	/home/chenglong/github.com/laq/src/laq/build/temp.linux-x86_64-cpython-311/quant.o	11f911bab6558369
+14	47679	1750234253827030882	/home/chenglong/github.com/laq/src/laq/build/temp.linux-x86_64-cpython-311/quant.o	11f911bab6558369
